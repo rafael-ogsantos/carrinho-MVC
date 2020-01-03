@@ -18,4 +18,4 @@ condições e etc.
 
 ## License
 
-Carrinho MVC licence[MIT license](https://opensource.org/licenses/MIT).
+Carrinho MVC licence [MIT license](https://opensource.org/licenses/MIT).
